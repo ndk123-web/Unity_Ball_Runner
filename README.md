@@ -151,16 +151,4 @@ Assembly-CSharp.csproj
 Learning_Runner.sln
 ```
 
----
-
-## Future Improvements
-- Add different difficulty levels.
-- Introduce power-ups.
-- Enhance graphics and animations.
-- Implement leaderboard & high scores.
-- Add procedural level generation.
-
----
-
-Enjoy the game! 🚀
 
